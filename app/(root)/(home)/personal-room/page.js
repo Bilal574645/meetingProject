@@ -46,7 +46,7 @@ const PersonalRoom = () => {
     <>
       <div
         style={{
-          backgroundImage: 'url(https://media.giphy.com/media/FtfdEA2wLmGvqGsSXO/giphy.gif)',
+          // backgroundImage: 'url(https://media.giphy.com/media/FtfdEA2wLmGvqGsSXO/giphy.gif)',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',

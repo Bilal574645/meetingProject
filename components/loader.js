@@ -6,7 +6,7 @@ const Loader = () => {
 <>
 <div className=' flex bg-slate-700 justify-center items-center h-screen w-full'>
     <Image
-        src="/public/icons/loading.gif"
+        // src="/public/icons/loading.gif"
         alt='Loading'
         width={100}
         height={100}

@@ -14,7 +14,7 @@ const Home = () => {
   className='z-0'
   >
     <iframe
-      src="https://giphy.com/embed/l4JyQqyt9S1WTiE6c"
+      // src="https://giphy.com/embed/l4JyQqyt9S1WTiE6c"
       width="100%"
       height="100%"
       style={{ position: 'absolute' }}
