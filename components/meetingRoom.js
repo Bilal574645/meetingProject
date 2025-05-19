@@ -13,7 +13,7 @@ import { Layout, LayoutList, User, UserIcon, Users } from 'lucide-react';
 import { Item } from '@radix-ui/react-dropdown-menu';
 import { useRouter, useSearchParams } from 'next/navigation';
 import EndCallButton from './endCallButton';
-
+import TranslationButton from './translationbtn';
 
 const MeetingRoom = () => {
 
@@ -82,6 +82,7 @@ const MeetingRoom = () => {
               }
             </DropdownMenuContent>
           </DropdownMenu>
+          <TranslationButton/>
 
           <CallStatsButton/>
 
